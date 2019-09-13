@@ -1,0 +1,24 @@
+{
+  "name": "simpleappreact",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lechst/simpleAppReact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lechst/simpleAppReact/issues"
+  },
+  "homepage": "https://github.com/lechst/simpleAppReact#readme",
+  "devDependencies": {
+    "axios": "^0.19.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
